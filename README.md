@@ -247,5 +247,5 @@ WHERE Project_detail.id_proj IN (SELECT id_proj FROM Project WHERE nama = 'B');
 ![alt text](Gambar/erd.png)
 
 
-##Terima Kasih
+#Terima Kasih
 <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
